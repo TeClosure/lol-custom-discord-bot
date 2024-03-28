@@ -1,7 +1,7 @@
-import discord
 import os
-import requests
 
+import discord
+import requests
 from discord.ext import commands
 from dotenv import load_dotenv
 
